@@ -13,7 +13,7 @@ new Vue({
           name: "a",
           artist: "b",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://github.com/aneiwert/mini-player/blob/master/mp3/1_SUPR.mp3",
+          source: "mp3/1_SUPR.mp3",
           url: "https://www.youtube.com/watch?v=OYVlx3vnu8I&list=RDOYVlx3vnu8I&start_radio=1",
           favorited: false
         },
