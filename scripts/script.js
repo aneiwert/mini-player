@@ -7,12 +7,12 @@ new Vue({
       barWidth: null,
       duration: null,
       currentTime: null,
-      isTimerPlaying: false,
+      isTimerPlaying: false, 
       tracks: [
         {
-          name: "a",
-          artist: "b",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
+          name: "Anime Opening",
+          artist: "a",
+          cover: "https://raw.githubusercontent.com/aneiwert/mini-player/refs/heads/master/img/img1.jpg",
           source: "https://github.com/aneiwert/mini-player/raw/refs/heads/master/mp3/1_SUPR.mp3",
           url: "https://www.youtube.com/watch?v=OYVlx3vnu8I&list=RDOYVlx3vnu8I&start_radio=1",
           favorited: false
