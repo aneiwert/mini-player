@@ -10,16 +10,16 @@ new Vue({
       isTimerPlaying: false, 
       tracks: [
         {
-          name: "Anime Opening",
-          artist: "a",
-          cover: "https://raw.githubusercontent.com/aneiwert/mini-player/refs/heads/master/img/img1.jpg",
-          source: "https://github.com/aneiwert/mini-player/raw/refs/heads/master/mp3/1_SUPR.mp3",
-          url: "https://www.youtube.com/watch?v=OYVlx3vnu8I&list=RDOYVlx3vnu8I&start_radio=1",
+          name: "The Name of Heaven",
+          artist: "NAOKI",
+          cover: "https://github.com/aneiwert/mini-player/blob/5fb63d163c48dc9b3c4281875a6b339bea51a7b4/img/img1.jpeg",
+          source: "https://github.com/aneiwert/mini-player/blob/1f2ea2d7fcfa65ce01e28fe860c589a670f2750b/mp3/1_HVN.mp3",
+          url: "x",
           favorited: false
         },
         {
-          name: "s",
-          artist: "t",
+          name: "Dan Dan Kokoro Hikareteku",
+          artist: "Dragonball GT OP",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
