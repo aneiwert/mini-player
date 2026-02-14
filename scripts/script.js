@@ -12,7 +12,7 @@ new Vue({
         {
           name: "The Name of Heaven",
           artist: "NAOKI",
-          cover: "https://github.com/aneiwert/mini-player/blob/master/img/img1.jpeg",
+          cover: "https://github.com/aneiwert/mini-player/blob/f4cf633fda918cfc1b99c0a87ea11e6298c200dc/img/img1.jpeg",
           source: "https://github.com/aneiwert/mini-player/blob/master/mp3/1_HVN.mp3",
           url: "x",
           favorited: false
