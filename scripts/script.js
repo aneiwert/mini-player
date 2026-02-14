@@ -12,16 +12,16 @@ new Vue({
         {
           name: "The Name of Heaven",
           artist: "NAOKI",
-          cover: "https://github.com/aneiwert/mini-player/blob/f4cf633fda918cfc1b99c0a87ea11e6298c200dc/img/img1.jpeg",
-          source: "https://github.com/aneiwert/mini-player/blob/master/mp3/1_HVN.mp3",
+          cover: "file:///Users/ellaneiwert/Desktop/mini-player/img/img1.jpeg",
+          source: "file:///Users/ellaneiwert/Desktop/mini-player/mp3/1_HVN.mp3",
           url: "x",
           favorited: false
         },
         {
           name: "Dan Dan Kokoro Hikareteku",
           artist: "Dragonball GT OP",
-          cover: "https://github.com/aneiwert/mini-player/blob/master/img/img2.jpeg",
-          source: "https://github.com/aneiwert/mini-player/blob/f4cf633fda918cfc1b99c0a87ea11e6298c200dc/mp3/2_GT.mp3",
+          cover: "file:///Users/ellaneiwert/Desktop/mini-player/img/img2.jpeg",
+          source: "file:///Users/ellaneiwert/Desktop/mini-player/mp3/2_GT.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: false
         },
